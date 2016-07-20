@@ -1,2 +1,2 @@
 # example-rep
-empty sample repository
+Following the GitHub "Hello World" tutorial
